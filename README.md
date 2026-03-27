@@ -1,23 +1,18 @@
-# VSCode-Efficiency-Guide
+# Learn Vscode Keyboard
 
-A comprehensive resource for mastering Visual Studio Code. This guide focuses on keyboard shortcuts, productivity-enhancing extensions, and workflow optimizations to help developers code faster and more efficiently.
+Quick reference and practice repository for VS Code keyboard shortcuts.
 
-## ┬┐ Project Overview
-This repository serves as a curated collection of techniques for maximizing VSCode potential. Whether you are a beginner looking to learn the basics or an advanced user aiming for keyboard-driven mastery, this guide has something for you.
+## Features
+- {Feature Description}
+- Detailed project mapping
+- Standardized branding
 
-## ┬┐ Key Features
-- **Shortcut Cheat Sheets**: Organized by operating system (macOS/Windows/Linux).
-- **Pro Tutorials**: Step-by-step guides for advanced debugging, refactoring, and multicursor usage.
-- **Extension Recommendations**: A vetted list of extensions for different languages and use cases.
+## Tech Stack
+- **Primary**: Vscode
+- **Domain**: Productivity
 
-## ┬┐ Project Structure
-- `shortcuts/`: Markdown files containing detailed shortcut tables.
-- `tutorials/`: Advanced guides and workflow walkthroughs.
-- `extensions/`: Configurations and lists of recommended extensions.
-
-## ┬┐ Getting Started
-1. Browse the [shortcuts/](shortcuts/) directory to learn essential keybindings.
-2. Check the [tutorials/](tutorials/) folder for deep dives into specific VSCode features.
+## License
+MIT License — see [LICENSE](LICENSE)
 
 ---
-*Created by DinhLucent - 2022 (Initial Scaffolding 2026)*
+Built by [DinhLucent](https://github.com/DinhLucent)
